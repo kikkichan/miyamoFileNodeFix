@@ -26,6 +26,9 @@ def main():
         if type=='place2dTexture':
             p2d.append(i)
 
+    #return if no file node Selected
+    if len(file)==0:
+        return
 
     #Create new p2d node if no p2d node selected
     if len(p2d)==0:
