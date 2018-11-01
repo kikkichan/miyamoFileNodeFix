@@ -12,5 +12,5 @@
 ### 使い方  
 以下のコードを書いてください  
 
-    import miyamoRenamer  
-    miyamoRenamer.main()  
+    import miyamoFileNodeFix 
+    miyamoFileNodeFix.main()  
